@@ -7,3 +7,5 @@ Bio:
 Born in a small town in nebraska, graduated from the University of Nebraska in Omaha, and currently working at a large food company.
 
 Favorite Color: **Red**
+
+More Information: I like cats!
